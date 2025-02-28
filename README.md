@@ -23,3 +23,5 @@ This is a **random password generator** built using **HTML, CSS, and JavaScript*
 4. Copy the generated password for use.  
 
 ## 📂 Project Structure
+
+![image alt](https://github.com/VivekMishra21/Password-Generator/blob/c8e9edc8958ffcc93251c938abbf54c4d14fb133/PasswordGenerator.png)
